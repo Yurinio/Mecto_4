@@ -16,4 +16,4 @@
 
 ***
 **Ссылка проект**
-https://yurinio.github.io/Mecto/index.html
+https://yurinio.github.io/Mecto_4/index.html
