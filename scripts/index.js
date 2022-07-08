@@ -8,6 +8,7 @@ const jobInputContent = document.querySelector('.profile__subtitle')
 const nameValue = document.getElementById('name')
 const jobValue = document.getElementById('job')
 
+
 editbutton.addEventListener('click', openPopup)
 сlosePopupButton.addEventListener('click', сlosePopup)
 
@@ -16,7 +17,6 @@ function openPopup(event) {
     nameValue.value = nameInputContent.textContent
     jobValue.value = jobInputContent.textContent
     popup.classList.add('popup_opened')
-
 }
 function сlosePopup() {
     popup.classList.remove('popup_opened')
